@@ -27,4 +27,14 @@
 <h2 align="center">Insights Deep Dive</h2>
 <h3 align="center">Overwhelming increase in documents and incomplete work from 2021 and 2022</h3>
 
-<p>Soon after starting our analysis, it was decided to use a line graph to find the trend of document management across 2017 - 2022, to immediately get a top-level overview of the amount of work complete and received over the five years across six categories, and then proceed through given year(s) of note to fix. Shockingly, between years 2021 and 2022, a massive spike of received documents appeared, followed by a huge gap of unreturned/undigitsed documents that failed to keep up with them. Given how 2017 - 2020 were relatively stable, this event disrupted the fairly consistent management of documents, prompting us to immediately focus efforts on these two points in time.</p>
+<p>Soon after starting our analysis, it was decided to use a line graph to find the trend of document management across 2017 - 2022, to immediately get a top-level overview of the amount of work complete against received ones over the five years across six categories, and then proceed through fixing given year(s) of note. Shockingly, between years <b>2021 and 2022</b>, a massive spike of received documents appeared, followed by a huge gap of unreturned/undigitsed documents that failed to keep up with them.</p> 
+    
+<p>Given how 2017 - 2020 were relatively stable, this event disrupted the fairly consistent management of documents, prompting us to immediately focus efforts on these two points in time.</p>
+
+* <b>Major increase in received:</b>
+    * Went up to 28930 (2021) followed by 31748 (2022) from 10849 in 2020.
+    * Had a 166% raise from 2020 to 2021, then a 9% raise from 2021 to 2022.
+
+* <b>Inverse decline in returned/digitised:</b>
+    * 7154 (24% done) and 12566 (43%) in 2021.
+    * Worsened in 2022 by declining further in both categories while the recieved documents rose, with 1904 (5%) and 4525 (15%).
