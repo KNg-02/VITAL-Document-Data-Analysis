@@ -25,3 +25,6 @@
 </p>
 
 <h2 align="center">Insights Deep Dive</h2>
+<h3 align="center">Overwhelming increase in documents and incomplete work from 2021 and 2022</h3>
+
+<p>Soon after starting our analysis, it was decided to use a line graph to find the trend of document management across 2017 - 2022, to immediately get a top-level overview of the amount of work complete and received over the five years across six categories, and then proceed through given year(s) of note to fix. Shockingly, between years 2021 and 2022, a massive spike of received documents appeared, followed by a huge gap of unreturned/undigitsed documents that failed to keep up with them. Given how 2017 - 2020 were relatively stable, this event disrupted the fairly consistent management of documents, prompting us to immediately focus efforts on these two points in time.</p>
