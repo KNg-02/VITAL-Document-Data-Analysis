@@ -40,3 +40,5 @@
 * <b>Inverse decline in returned/digitised:</b>
     * 7154 (24% done) and 12566 (43%) in 2021.
     * Worsened in 2022 by declining further in both categories while the recieved documents rose, with 1904 (5%) and 4525 (15%).
+
+ <p>This glaring discrepancy immediately signals where our intervention efforts should focus.</p>
