@@ -24,10 +24,12 @@
   Its analysis demonstrates a clear effort to be as consise as possible but still meaningful to the company, via narrowing down key agencies that are the source of the highest amount of undigitised and unreturned documents, to be tackled first before providing suggestions in order to do so, which can be applied to other agencies retroactively in the future. 
 </p>
 
-<h2 align="center">Insights Deep Dive</h2>
-<h3 align="center">Overwhelming increase in documents and incomplete work from 2021 and 2022</h3>
+<h2 align="center">Insights Deep-Dive</h2>
+<h3 align="center">Overwhelming increase in received documents and incomplete work from 2021 and 2022</h3>
 
-<p>Soon after starting our analysis, it was decided to use a line graph to find the trend of document management across 2017 - 2022, to immediately get a top-level overview of the amount of work complete against received ones over the five years across six categories, and then proceed through fixing given year(s) of note. Shockingly, between years <b>2021 and 2022</b>, a massive spike of received documents appeared, followed by a huge gap of unreturned/undigitsed documents that failed to keep up with them.</p> 
+<p>Soon after starting our analysis, it was decided to use a line graph to find the trend of document management across 2017 - 2022, to immediately get a top-level overview of the amount of work complete against received ones over the five years across six categories, and then proceed through fixing given year(s) of note.</p> 
+    
+<p>Shockingly, between years <b>2021 and 2022, a massive spike of received documents occurred, followed by a huge gap of unreturned/undigitised documents underneath that failed to keep up with them</b>.</p> 
     
 <p>Given how 2017 - 2020 were relatively stable, this event disrupted the fairly consistent management of documents, prompting us to immediately focus efforts on these two points in time.</p>
 
