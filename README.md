@@ -87,6 +87,10 @@ To prevent the Scan Hub team from being immediately overwhelmed, as outlined wit
 
 <h3>3. Analysis of Agency 0's mismanagement of documents</h3>
 
+<p align="center" width="100%">
+    <img width="80%" src="https://i.imgur.com/f6LnDB0.png">
+</p>
+
 <b>2021 and 2022's inconsistencies and/or general neglect with the digitisation and returning of documents caused its poor document management.</b>
 
 <b>Inconsistent digitisation within the two parts of the year:</b> 
