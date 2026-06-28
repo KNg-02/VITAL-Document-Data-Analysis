@@ -87,13 +87,20 @@ To prevent the Scan Hub team from being immediately overwhelmed, as outlined wit
 
 <h3>3. Analysis of Agency 0's mismanagement of documents</h3>
 
-<p align="center" width="100%">
-    <img width="80%" src="https://i.imgur.com/f6LnDB0.png">
-</p>
-
 <b>2021 and 2022's inconsistencies and/or general neglect</b> with the digitisation and returning of documents caused its poor document management.
 
-<b>Inconsistent digitisation within the two parts of the year:</b> 
+<b>Inconsistent returning in 2021:</b>
+
+<p align="center" width="100%">
+    <img width="70%" src="https://i.imgur.com/TgqqumG.png">
+</p>
+
+<b>Inconsistent digitisation in 2021:</b> 
+
+<p align="center" width="100%">
+    <img width="70%" src="https://i.imgur.com/f6LnDB0.png">
+</p>
+
 * Except for January, all received documents in Agency 0 had consistent digitisation from February to June - the first half of the year.
   * This consistency stopped during the second half of the year in July (455/1328), before abruptly failing to digitise any more documents for the rest of it.
  
