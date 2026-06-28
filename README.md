@@ -48,3 +48,26 @@
  <p>This glaring discrepancy immediately signals where our intervention efforts should focus.</p>
 
 <b>Stand-out source of the overwhelming mismanagement of documents</b>
+
+<p>Breakdown of document management (2021)</p>
+<p align="center" width="100%">
+    <img width="100%" src="https://i.imgur.com/capqDqD.png">
+</p>
+
+<p>Breakdown of document management (2022)</p>
+<p align="center" width="100%">
+    <img width="100%" src="https://i.imgur.com/9GUgM1W.png">
+</p>
+
+<p>Agency 0 was found to be the biggest source of documents between the two years, followed by the high number of undigitised and unreturned amounts within the timeframe through itself, causing the gap in our trends. This is shown through the given percentage breakdown:</p>
+
+<b>Received documents:</b>
+
+* 20021/28930 (69% received in 2021)
+* 25294/31748 (79% received in 2022)
+
+<b>Poor completion rates:</b>
+
+* 7520/20021 (37% digitised in 2021)
+* 2034/20021 (10% returned in 2021)
+* Worse still, it had <b>0 digitised or returned documents in 2022</b>.
