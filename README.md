@@ -91,7 +91,7 @@ To prevent the Scan Hub team from being immediately overwhelmed, as outlined wit
     <img width="80%" src="https://i.imgur.com/f6LnDB0.png">
 </p>
 
-<b>2021 and 2022's inconsistencies and/or general neglect with the digitisation and returning of documents caused its poor document management.</b>
+<b>2021 and 2022's inconsistencies and/or general neglect</b> with the digitisation and returning of documents caused its poor document management.
 
 <b>Inconsistent digitisation within the two parts of the year:</b> 
 * Except for January, all received documents in Agency 0 had consistent digitisation from February to June - the first half of the year.
