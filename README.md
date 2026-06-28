@@ -95,6 +95,12 @@ To prevent the Scan Hub team from being immediately overwhelmed, as outlined wit
     <img width="70%" src="https://i.imgur.com/TgqqumG.png">
 </p>
 
+Agency 0 in 2021 returned no received documents beyond February, besides being incomplete for both months.
+
+In 2020, the year's total amount of received documents were generally able to be returned and digitised overall, even if gaps had been present. This includes a non-Agency 0 2021.
+
+However, factoring Agency 0's inclusion since 2021, with its neglect despite its high level of documents, these gaps have been much more apparent.
+
 <b>Inconsistent digitisation in 2021:</b> 
 
 <p align="center" width="100%">
