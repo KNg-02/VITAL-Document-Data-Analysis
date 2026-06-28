@@ -104,7 +104,7 @@ To prevent the Scan Hub team from being immediately overwhelmed, as outlined wit
     <img width="70%" src="https://i.imgur.com/f6LnDB0.png">
 </p>
 
-* **Initially consistent progress before stopping:** Except for January, all received documents in Agency 0 had consistent digitisation from February to June - the first half of the year.
+* **Initially consistent progress before halting:** Except for January, all received documents in Agency 0 had consistent digitisation from February to June - the first half of the year.
   * This consistency stopped during the second half of the year in July (455/1328), before abruptly failing to digitise any more documents for the rest of it.
  
 * **Long-term issues from incomplete work:** The lack of general consistency between both categories, through completing all work available and then not, and/or a mismatch in both categories' actions could bring down efficiency and progress in the long run.
