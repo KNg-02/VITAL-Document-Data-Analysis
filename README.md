@@ -25,7 +25,7 @@
 </p>
 
 <h2 align="center">Insights Deep-Dive</h2>
-<h3 align="center">Overwhelming increase in received documents and incomplete work from 2021 and 2022</h3>
+<h3>1. Overwhelming increase in received documents and incomplete work from 2021 and 2022</h3>
 
 <p align="center" width="100%">
     <img width="100%" src="https://i.imgur.com/5sB1DUU.png">
@@ -47,7 +47,7 @@
 
  <p>This glaring discrepancy immediately signals where our intervention efforts should focus.</p>
 
-<b>Stand-out source of the overwhelming mismanagement of documents</b>
+<h3>2. Stand-out source of the overwhelming mismanagement of documents</h3>
 
 <p>Breakdown of document management (2021)</p>
 <p align="center" width="100%">
@@ -73,3 +73,14 @@
 * 7520/20021 (37% digitised within Agency 0 in 2021)
 * 2034/20021 (10% returned within Agency 0 in 2021)
 * Worse still, it had <b>0 digitised or returned documents in 2022</b>.
+
+To gain a better understanding of Agency 0's underwhelmingly low progress within both years, we will add their total received documents together. From there, it's found that no values even match 25% - a quarter of work done showing its neglect despite its importance.
+
+<b>Summed completion rates, also poor:</b>
+
+* 7520/60678 (16% digitised overall) 
+* 2034/60678 (4% returned overall)
+
+As Agency 0 is actually related to many Singaporean students' academic records, it becomes more urgent for it to be solved as soon as possible. From this point, we will find and elabortate on insights related to the biggest problems within its management.
+
+To prevent the Scan Hub team from being immediately overwhelmed, as outlined within the very beginning of this report, whose goal is to keep itself as concise as possible via delivering the most important insights, no other agencies will be covered, due to taking generally less volume as established by the percentages. Of course, the recommendations to solve Agency 0's issues can be applied for them if necessary.
