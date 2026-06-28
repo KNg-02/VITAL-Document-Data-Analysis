@@ -83,4 +83,14 @@ To gain a better understanding of Agency 0's underwhelmingly low progress within
 
 <b>As Agency 0 is actually related to many Singaporean students' academic records</b>, it becomes more urgent for it to be solved as soon as possible. From this point, we will focus on it before finding and elaborating on insights related to the biggest problems within its management.
 
-To prevent the Scan Hub team from being immediately overwhelmed, as outlined within the very beginning of this report, whose goal is to keep itself as concise as possible via delivering the most important insights, no other agencies will be covered, due to taking generally less volume as established by the percentages. Of course, the recommendations to solve Agency 0's issues can be applied for them if necessary.
+To prevent the Scan Hub team from being immediately overwhelmed, as outlined within the very beginning of this report, whose goal is to keep itself as concise as possible via delivering the most important insights, no other agencies will be covered, due to taking generally less volume as established by the percentages. Of course, the recommendations to deal with Agency 0's issues can be applied for them if necessary.
+
+<h3>3. Analysis of Agency 0's mismanagement of documents</h3>
+
+<b>2021 and 2022's inconsistencies and/or general neglect with the digitisation and returning of documents caused its poor document management.</b>
+
+<b>Inconsistent digitisation within the two parts of the year:</b> 
+* Except for January, all received documents in Agency 0 had consistent digitisation from February to June - the first half of the year.
+  * This consistency stopped during the second half of the year in July (455/1328), before abruptly failing to digitise any more documents for the rest of it.
+ 
+It is to be reminded that the lack of general consistency, through completing all work available and then not, and/or suddenly abandoning tasks could greatly bring down efficiency and progress in the long run, as more documents are received over time.
