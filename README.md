@@ -74,7 +74,7 @@
 * 2034/20021 (10% returned within Agency 0 in 2021)
 * Worse still, it had <b>0 digitised or returned documents in 2022</b>.
 
-To gain a better understanding of Agency 0's underwhelmingly low progress within both years, we will add their total received documents together. From there, it's found that no values even match 25% - a quarter of work done showing its neglect despite its importance.
+To gain a better understanding of Agency 0's underwhelmingly low progress within both years, we will add their total received documents together. From there, it's found that no values even match 25% - a quarter of work done showing its lack of upkeep despite its importance.
 
 <b>Summed completion rates, also poor:</b>
 
