@@ -95,11 +95,8 @@ To prevent the Scan Hub team from being immediately overwhelmed, as outlined wit
     <img width="70%" src="https://i.imgur.com/TgqqumG.png">
 </p>
 
-Agency 0 in 2021 returned no received documents beyond February, besides being incomplete for both months.
-
-In 2020, the year's total amount of received documents were generally able to be returned and digitised overall, even if gaps had been present. This includes a non-Agency 0 2021.
-
-However, factoring Agency 0's inclusion since 2021, with its neglect despite its high level of documents, these gaps have been much more apparent.
+* Agency 0 in 2021 returned no received documents beyond February, besides being incomplete for both months.
+* Surprisingly, the digitisation of documents lasted longer across months than its return of such, adding an inconsistency between the two to investigate.
 
 <b>Inconsistent digitisation in 2021:</b> 
 
@@ -110,4 +107,4 @@ However, factoring Agency 0's inclusion since 2021, with its neglect despite its
 * Except for January, all received documents in Agency 0 had consistent digitisation from February to June - the first half of the year.
   * This consistency stopped during the second half of the year in July (455/1328), before abruptly failing to digitise any more documents for the rest of it.
  
-It is to be reminded that the lack of general consistency, through completing all work available and then not, and/or suddenly abandoning tasks could greatly bring down efficiency and progress in the long run, as more documents are received over time.
+It must be reminded that the lack of general consistency, through completing all work available and then not, and/or suddenly abandoning tasks could greatly bring down efficiency and progress in the long run, as more documents are received over time.
