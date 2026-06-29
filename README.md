@@ -152,3 +152,7 @@ Investigate the general management of documents to know the actual reason behind
 
 <h3>3. Track progress frequently</h3>
 At the end of every week, use a bar graph to detect the remaining number of documents have yet to be digitised and returned, against what has been received per agency, to know what still needs to be addressed. Going one step further, the team can also use a line graph showing all the months of work per year, to track the number of documents within the 3 categories from all agencies combined for a wider overview of progress, as well as for each agency individually.
+
+<h3>4. Pay close attention to agencies with larger output</h3> Keep a close eye on any agency with a history of sending high amounts of documents, with Agency 0 as an example, to detect and address unexpected anomalies within its documents as soon as possible. While the possibility of high amounts of the above cannot be prevented, but being at least prepared for such can alleviate them over struggling to handle them from detecting them too late.
+
+Note: It was
