@@ -155,4 +155,4 @@ At the end of every week, use a bar graph to detect the remaining number of docu
 
 <h3>4. Pay close attention to agencies with larger output</h3> Keep a close eye on any agency with a history of sending high amounts of documents, with Agency 0 as an example, to detect and address unexpected anomalies within its documents as soon as possible. While the possibility of high amounts of the above cannot be prevented, but being at least prepared for such can alleviate them over struggling to handle them from detecting them too late.
 
-Note: It was
+Note: While paying attention to vendors is ultimately still possible, agencies were chosen as they're a high-level measure, making it easier to track.
