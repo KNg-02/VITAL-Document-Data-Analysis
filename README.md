@@ -42,15 +42,15 @@ While being as concise as possible, the project's goal is to investigate the per
 
 * Agency
 
-    * The agency that the received documents belong to. Being a top-level variable, we will focus on this column more than vendors.
+    * The agency that the received documents belong to. Being a top-level variable, we will focus on this column first before vendors.
 
 * Vendor
   
-    * The categories within each agency that supply documents of varying amounts.
+    * The suppliers assigned to each agency that provide documents of varying amounts to them.
 
-* Year/Month/Date
+* Year/Month
 
-    * Drilled up from the date, tracks the total amount of documents received/digitised/returned over given years/months.
+    * Tracks the total amount of documents received/digitised/returned over given years/months.
 
 
 <h2 align="center">Quick Overview of Insights</h2>
