@@ -31,9 +31,7 @@ While being as concise as possible, the project's goal is to investigate the per
 <p>
     
 **1. Source of the document overflow:**
-Agency 0, which is primarily supplied by Vendor D, was the primary contributor to the spike of documents received in 2021 and 2022. 
-
-These stats include:
+Agency 0, which is primarily supplied by Vendor D, was the primary contributor to the spike of documents received in 2021 and 2022. These stats include:
 
 When only filtering through Vendor D:
 * 19811/20021 (98% received in 2021)
@@ -43,16 +41,17 @@ Total digitisation/return progress across 2021 and 2022:
 * 7380/44482 (16% digitised overall) 
 * 1894/44482 (4% returned overall)
 
-Note: There was no progress in 2022, so these are really just stats from 2021.
+Note: There was no progress made in 2022, so these are really just stats from 2021.
 
 **2: Issues found across 2021/2022:**
+
 2021:
 * Incomplete counts of work (e.g. 1423/1892 digitised in January)
 * Work suddenly stopping (work performed in Jan - February, before abruptly halting for the rest on the year, through reflecting 0 digitisation/returns)
 * Lack of consistency between digitisation and returning of documents (digtisation lasted 6 months, while returning lasted 2)
 
 2022:
-
+* No work complete, despite the increase in received documents
 
 </p>
 
