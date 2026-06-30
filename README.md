@@ -29,7 +29,22 @@ While being as concise as possible, the project's goal is to investigate the per
 
 <h2 align="center">One-Minute Analysis Overview</h2>
 <p>
-Write here
+    
+**1. Source of the document overflow:**
+Agency 0, which is primarily supplied by Vendor D, was the primary contributor to the spike of documents received in 2021 and 2022. 
+
+These stats include:
+
+When only filtering through Vendor D:
+* 19811/20021 (98% received in 2021)
+* 24671/25294 (97% received in 2021)
+
+Total digitisation/return progress across 2021 and 2022:
+* 7380/44482 (16% digitised overall) 
+* 1894/44482 (4% returned overall)
+
+Note: There was no progress in 2022, so these are really just stats from 2021.
+
 </p>
 
 <h2 align="center">Insights Deep-Dive</h2>
@@ -142,8 +157,8 @@ To prevent the Scan Hub team from being immediately overwhelmed, as outlined wit
 
 <b>Vendor D, a key provider of Agency 0's overflowing documents:</b>
 
-* 19811 documents out of 20021 in 2021 (98%)
-* 24671 documents out of 25294 in 2022 (97%)
+* 19811/20021 in 2021 (98%)
+* 24671/25294 in 2022 (97%)
 * **Possibility for easier management**: However, with only one vendor behind the huge influx of documents, it may be easier to control/investigate over having multiple of such to attend to.
 
 <h2 align="center">Recommendations and Next Steps</h2>
