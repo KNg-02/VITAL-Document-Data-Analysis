@@ -20,8 +20,7 @@
 </p>
 
 <p>
-  This project uses a dataset documenting the amount of documents received (<b>78530</b>), returned (<b>32992</b>) and digitised (<b>25774</b>) per agency (<b>37</b>)/vendor (<b>8</b>) across the years of 2017 - 2022. 
-  Its analysis demonstrates a clear effort to be as consise as possible but still meaningful to the company, via narrowing down key agencies that are the source of the highest amount of undigitised and unreturned documents, to be tackled first before providing suggestions in order to do so, which can be applied to other agencies retroactively in the future. 
+  This project uses a dataset documenting the amount of documents received (<b>78530</b>), returned (<b>32992</b>) and digitised (<b>25774</b>) per agency (<b>37</b>)/vendor (<b>8</b>) across the years of 2017 - 2022. Its goal, while being as concise as possible, is to investigate the performance of the Scan Hub team's document management to uncover causes of large amounts of undigitised and unreturned documents from key agencies and their vendors between the most relevant years of 2017 - 2021. This will allow us to provide recommendations for improved management, which can also be applied to other agencies in the future.
 </p>
 
 <h2 align="center">Insights Deep-Dive</h2>
