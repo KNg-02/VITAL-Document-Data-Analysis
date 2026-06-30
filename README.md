@@ -189,7 +189,7 @@ At the end of every week, use a bar graph to detect the remaining number of docu
 Note: While paying attention to vendors is ultimately still possible, agencies were chosen as they're a high-level measure, making it easier to track.
 
 <h3>5. Communicate with vendors for assistance</h3>
-Consult the necessary vendors associated with agencies that have provided a drastic overflow of documents, with Agency 0's Vendor D as an example. Afterwards, take note of these answers for the team to be aware of, and address appropriately. To re-iterate, the possibility of high amount of documents cannot be prevented and could happen any time, but being prepared for the event can stop large amounts of unfinished work - which is what this whole analysis aims to solve.
+Consult the necessary vendors associated with agencies that have provided a drastic overflow of documents, with Agency 0's Vendor D as an example. Afterwards, take note of these answers for the team to be aware of, and address appropriately. To re-iterate, the possibility of high amount of documents cannot be prevented and could happen any time, but being prepared for possible events can stop large amounts of unfinished work - which is what this whole analysis aims to solve.
 
 <h2 align="center">Assumptions and Caveats</h2>
 
