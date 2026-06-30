@@ -37,7 +37,7 @@ When only filtering through Vendor D:
 * 19811/20021 (98% received in 2021)
 * 24671/25294 (97% received in 2021)
 
-Total digitisation/return progress across 2021 and 2022:
+Total digitisation/return progress through 2021 and 2022 summed up:
 * 7380/44482 (16% digitised overall) 
 * 1894/44482 (4% returned overall)
 
