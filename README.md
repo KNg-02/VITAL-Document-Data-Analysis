@@ -27,6 +27,32 @@
 While being as concise as possible, the project's goal is to investigate the performance of the Scan Hub team's document management to uncover causes of large amounts of undigitised and unreturned documents, from key agencies and their vendors between the most relevant years of 2017 - 2021. This will allow us to provide recommendations for improved management, which can also be applied to any other agency in the future whenever necessary.
 </p>
 
+<h2 align="center">Key Metrics</h2>
+<p>To evaluate the performance of the document inventory's management, we will follow the following key metrics:</p>
+
+<b>Completed Documents per Stages:</b>
+
+* Received, Digitised and Returned Documents
+
+    * The three stages of document management within the Scan Hub, in that order. 
+
+    * Ideally, as much as possible, received documents should be digitised and then returned to their agency of origin, over being left unfinished at any point within the last two stages.
+
+<b>Completed Documents per Category:</b>
+
+* Agency
+
+    * The agency that the received documents belong to. Being a top-level variable, we will focus on this column more than vendors.
+
+* Vendor
+  
+    * The categories within each agency that supply documents of varying amounts.
+
+* Year/Month/Date
+
+    * Drilled up from the date, tracks the total amount of documents received/digitised/returned over given years/months.
+
+
 <h2 align="center">Quick Overview of Insights</h2>
 <p>
     
