@@ -156,3 +156,6 @@ At the end of every week, use a bar graph to detect the remaining number of docu
 <h3>4. Pay close attention to agencies with larger output</h3> Keep a close eye on any agency with a history of sending high amounts of documents, with Agency 0 as an example, to detect and address unexpected anomalies within its documents as soon as possible. While the possibility of high amounts of the above cannot be prevented, but being at least prepared for such can alleviate them over struggling to handle them from detecting them too late.
 
 Note: While paying attention to vendors is ultimately still possible, agencies were chosen as they're a high-level measure, making it easier to track.
+
+<h3>5. Communicate with vendors for assistance</h3>
+Consult the necessary vendors associated with agencies that have provided a drastic overflow of documents, with Agency 0's Vendor D as an example. Afterwards, take note of these answers for the team to be aware of, and address appropriately. To re-iterate, the possibility of high amount of documents cannot be prevented and could happen any time, but being prepared for the event can stop large amounts of unfinished work - which is what this whole analysis aims to solve.
