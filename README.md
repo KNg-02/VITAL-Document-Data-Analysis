@@ -24,7 +24,9 @@
 
 <h2 align="center">Project Goal</h2>
 <p>
-While being as concise as possible, the project's goal is to investigate the performance of the Scan Hub team's document management to uncover causes of large amounts of undigitised and unreturned documents, from key agencies and their vendors between the most relevant years of 2017 - 2021. This will allow us to provide recommendations for improved management, which can also be applied to any other agency in the future whenever necessary.
+While being as concise as possible, the project's goal is to investigate the performance of the Scan Hub team's document management to uncover causes of large amounts of undigitised and unreturned documents, from key agencies and their vendors between the most relevant years of 2017 - 2021. 
+    
+This will allow us to provide recommendations for improved management, which can also be applied to any other agency in the future whenever necessary.
 </p>
 
 <h2 align="center">Key Metrics</h2>
