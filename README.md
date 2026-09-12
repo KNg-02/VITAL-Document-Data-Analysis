@@ -84,7 +84,7 @@ Note: There was no progress made in 2022, so excluding received, former stats ar
 **3: Key Recommendations**
 * Check for sufficient manpower within the team due to the increasing amounts of documents per agency and years.
 * Investigate the reason behind inconsistency of work before finding ways to solve them.
-* Tracking progress frequently at the end of every week will align the whole team on what has been, and has yet to be completed.
+* Tracking progress frequently at the end of every week could align the whole team on what has been, and has yet to be completed.
 * Paying close attention to agencies with a history of larger output can let the team prepare for and detect and address unexpected anomalies should they occur.
 
 </p>
