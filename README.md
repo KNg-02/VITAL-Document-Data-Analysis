@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="33%" src="https://www.vital.gov.sg/images/general/logo.png">
+    <img width="33%" src="https://isomer-user-content.by.gov.sg/434/bd8cfc2c-c9fb-4e71-951f-d687982a456c/VITAL%20Logo_png.png">
 </p>
 
 <h1 align="center">VITAL Document Inventory Management Report</h1>
