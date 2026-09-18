@@ -20,9 +20,9 @@
 </p>
 
 <p>
-  This project uses a dataset documenting the amount of documents received (<b>78530</b>), returned (<b>32992</b>) and digitised (<b>25774</b>) per agency (<b>37</b>)/vendor (<b>6</b>) across the years of 2017 - 2022. </p>
+  This project uses a dataset documenting the amount of documents received (<b>78530</b>), returned (<b>32992</b>) and digitised (<b>25774</b>) per agency (<b>37</b>)/vendor (<b>6 categories</b>) across the years of 2017 - 2022. </p>
 
-<b>Note: Within the vendor list, 1 is unidentified, 5 are identified. The others do not have any vendor assigned.</b>
+<b>Note: Within the vendor list, 1 is unidentified, while 5 are identified.</b>
 
 <h2 align="center">Project Goal</h2>
 <p>
