@@ -22,6 +22,8 @@
 <p>
   This project uses a dataset documenting the amount of documents received (<b>78530</b>), returned (<b>32992</b>) and digitised (<b>25774</b>) per agency (<b>37</b>)/vendor (<b>8</b>) across the years of 2017 - 2022. </p>
 
+<b>Note: Not all agencies have a specified vendor, making there technically 9 categories of vendors.
+
 <h2 align="center">Project Goal</h2>
 <p>
 As concise as possible, the project's goal is to investigate the performance of the Scan Hub team's document management to uncover causes of large amounts of undigitised and unreturned documents, from key agencies and their vendors between the most relevant years of 2017 - 2021. 
