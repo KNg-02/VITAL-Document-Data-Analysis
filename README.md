@@ -32,7 +32,7 @@ This will allow us to provide recommendations for improved management, which can
 </p>
 
 <h2 align="center">Data Structure</h2>
-<p>The Excel spreadsheet's structure consists of one table: document_data, with a total row count of 2083.</p>
+<p>The Excel spreadsheet's structure uses up to one table: document_data, with a total row count of 2083.</p>
 <p align="center" width="100%">
     <img width="33%" src="https://i.imgur.com/PqoqJPL.png">
 </p>
