@@ -164,7 +164,7 @@ To further highlight the underwhelmingly low progress within both years, we will
 
 To prevent the Scan Hub team from being immediately overwhelmed, as outlined within the very beginning of this report, whose goal is to keep itself as concise as possible via delivering the most important insights, no other agencies will be covered, due to taking generally less volume as established by the percentages. Of course, the recommendations to deal with Agency 0's issues can be applied for them if necessary.
 
-<h3>3. Analysis of mismanagement of documents from Agency 0 in 2021/2022</h3>
+<h3>3. Analysis of mismanagement of documents from Agency 0</h3>
 
 <b>2021 and 2022's inconsistencies and/or general neglect</b> with the digitisation and returning of documents caused its poor document management.
 
