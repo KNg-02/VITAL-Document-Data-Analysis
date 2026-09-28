@@ -106,7 +106,7 @@ Note: There was no progress made in 2022, so excluding received, former stats ar
     
 <p>Between years <b>2020 and 2022, a spike of received documents occurred with a 192% increase (10849 to 31748)</b>, followed by a huge gap of unreturned/undigitised documents underneath <b>that failed to keep up with them</b>.</p> 
     
-<p>Given how 2017 - 2020 were relatively stable, this event disrupted the fairly consistent management of documents, prompting us to immediately focus efforts on these two points in time.</p>
+<p>Given how 2017 - 2020 were relatively stable, this event disrupted the fairly consistent management of documents. Therefore, efforts will be focused on these two points in time.</p>
 
 * <b>Major increase in received:</b>
     * Went up to 28930 (2021) followed by 31748 (2022) from 10849 in 2020.
