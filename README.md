@@ -64,6 +64,11 @@ This will allow us to provide recommendations for improved management, which can
 
 
 <h2 align="center">Executive Summary</h2>
+
+<p align="center" width="100%">
+    <img width="100%" src="https://i.imgur.com/7c4rDF9.png">
+</p>
+
 <p>
     
 **1. Source of the document overflow:**
