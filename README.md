@@ -67,6 +67,7 @@ This will allow us to provide recommendations for improved management, which can
 <p>
     
 **1. Source of the document overflow:**
+
 Agency 0, which is primarily supplied by Vendor D, was the primary contributor to the spike of documents received in 2021 and 2022. These stats include:
 
 When only filtering through Vendor D:
