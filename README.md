@@ -7,8 +7,7 @@
 <h2 align="center">Project Background</h2>
 
 <p>
-  VITAL, a government-affiliated agency under the Ministry of Finance, 
-  who has a department known as the "Scan Hub" to handle documents, provided by all sorts of agencies from their respective vendors, 
+  VITAL has a "Scan Hub" department specialized in handling documents, provided by all sorts of agencies from their respective vendors, 
   such as personal particulars, before digitizing them into databases and then returning said documents to their agency of origin.
 <p>
     
