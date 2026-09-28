@@ -103,8 +103,6 @@ Note: There was no progress made in 2022, so excluding received, former stats ar
 <p align="center" width="100%">
     <img width="100%" src="https://i.imgur.com/5sB1DUU.png">
 </p>
-
-<p>It was decided to start with a line graph to display the trend of document management across 2017 - 2022, allowing us to immediately get a top-level overview of the amount of work complete against received ones over the five years across six categories, and then proceed through fixing given year(s) of note.</p> 
     
 <p>Shockingly, between years <b>2020 and 2022, a massive spike of received documents occurred with a 192% increase (10849 to 31748), followed by a huge gap of unreturned/undigitised documents underneath that failed to keep up with them</b>.</p> 
     
