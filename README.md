@@ -106,7 +106,7 @@ Note: There was no progress made in 2022, so excluding received, former stats ar
     
 <p>Between years <b>2020 and 2022, a spike of received documents occurred with a 192% increase (10849 to 31748)</b>, followed by a huge gap of unreturned/undigitised documents underneath <b>that failed to keep up with them</b>.</p> 
     
-<p>Given how 2017 - 2020 were relatively stable, this event disrupted the fairly consistent management of documents. Therefore, efforts will be focused on these two points in time.</p>
+<p>Given how 2017 - 2020 were relatively stable, this event disrupted the fairly consistent management of documents. Therefore, efforts will be focused on 2021 and 2022 only.</p>
 
 * <b>Major increase in received:</b>
     * Went up to 28930 (2021) followed by 31748 (2022) from 10849 in 2020.
@@ -115,8 +115,6 @@ Note: There was no progress made in 2022, so excluding received, former stats ar
 * <b>Inverse decline in returned/digitised:</b>
     * 7154 (24% done) and 12566 (43%) in 2021.
     * Worsened in 2022 by declining further in both categories while the recieved documents rose, with 1904 (5%) and 4525 (15%).
-
- <p>This glaring discrepancy immediately signals where our efforts should be focusing on.</p>
 
 <h3>2. Stand-out source of the overwhelming mismanagement of documents</h3>
 
