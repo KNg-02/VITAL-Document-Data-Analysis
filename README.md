@@ -76,13 +76,13 @@ Agency 0, which is primarily supplied by Vendor D, was the primary contributor t
 
 When only filtering through Vendor D:
 * 19811/20021 (98% received in 2021)
-* 24671/25294 (97% received in 2021)
+* 24671/25294 (97% received in 2022)
 
 Digitisation/return progress against received documents summed up, across both years:
 * 7380/44482 (16% digitised overall) 
 * 1894/44482 (4% returned overall)
 
-Note: There was no progress made in 2022, so excluding received, former stats are really from 2021.
+Note: There was no digitisation/return of documents made in 2022, so progress above relates to only 2021.
 
 **2: Issues found across 2021/2022:**
 
