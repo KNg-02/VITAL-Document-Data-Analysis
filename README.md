@@ -99,7 +99,7 @@ Note: There was no progress made in 2022, so excluding received, former stats ar
 </p>
 
 <h2 align="center">Insights Deep-Dive</h2>
-<h3>1. Overwhelming increase in received documents and decrease of complete work</h3>
+<h3>1. Overwhelming increase in received documents against decrease of complete work</h3>
 
 <p align="center" width="100%">
     <img width="100%" src="https://i.imgur.com/5sB1DUU.png">
