@@ -24,17 +24,17 @@
 
 <b>Note: Within the vendor list, 1 is unidentified, while 5 are identified.</b>
 
-<h2 align="center">Data Structure</h2>
-<p>The Excel spreadsheet's structure consists of one table: document_data, with a total row count of 2083.</p>
-<p align="center" width="100%">
-    <img width="33%" src="https://i.imgur.com/PqoqJPL.png">
-</p>
-
 <h2 align="center">Project Goal</h2>
 <p>
 The project's goal is to investigate the performance of the Scan Hub team's document management to uncover causes of large amounts of undigitised and unreturned documents, from key agencies and their vendors between the most relevant years of 2017 - 2021. 
     
 This will allow us to provide recommendations for improved management, which can also be applied to any other agency in the future whenever necessary.
+</p>
+
+<h2 align="center">Data Structure</h2>
+<p>The Excel spreadsheet's structure consists of one table: document_data, with a total row count of 2083.</p>
+<p align="center" width="100%">
+    <img width="33%" src="https://i.imgur.com/PqoqJPL.png">
 </p>
 
 <h2 align="center">Key Metrics</h2>
