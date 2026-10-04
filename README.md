@@ -239,6 +239,6 @@ At the end of every week, use a bar graph to detect the remaining number of docu
 
 Throughout the analysis, one key assumption/caveat had to be made to manage challenges within the data.
 
-* Document Size Assumptions: This whole analysis assumes that every document generally has the same size in terms of content to digitize, meaning that there are little to no documents that have more/less content that would take much longer/shorter to complete such.
+* Document size assumptions: This whole analysis assumes that every document generally has the same size in terms of content to digitize, meaning that there are little to no documents that have more/less content that would take much longer/shorter to complete such.
 
     * Otherwise, content size could be a major factor in affecting digitisation efforts, though it was not reflected in the original Excel sheet whatsoever, which just notes down the three types of stats (recieved/digitised/returned) per agency.
